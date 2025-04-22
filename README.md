@@ -21,4 +21,11 @@ Hi, I’m **Vipin Verma**, a passionate Software Developer with 3 years of exper
 
 ## Projects
 
+- Swiggy Clone
+- Login & Register UI
+- Portfolio Website
+- Hangman Game
+
 ## Contact
+
+- vipinverma100118@gmail.com
